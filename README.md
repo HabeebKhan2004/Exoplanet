@@ -1,1 +1,1 @@
-# CelsitiaX-Exoplanet
+Exoplanet
